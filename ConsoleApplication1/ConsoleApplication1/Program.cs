@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Mordechai was here!!!");
+            Console.WriteLine("David was here!!!");
         }
     }
 }
